@@ -1,7 +1,3 @@
----
-Title : Starfish Detection
-Author : Manas Tiwari
----
 # starfish-detection
 Aim of the Competition 
 You will predict the presence and position of crown-of-thorns starfish in sequences of underwater images taken at various times and locations around the Great Barrier Reef. Predictions take the form of a bounding box together with a confidence score for each identified starfish. An image may contain zero or more starfish.
