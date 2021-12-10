@@ -9,6 +9,11 @@ You will predict the presence and position of crown-of-thorns starfish in sequen
 Download dataset from kaggle
 [starfish_data.zip](https://www.kaggle.com/c/tensorflow-great-barrier-reef/data)
 
+| Model Name  | Epochs | Score  | Result Link  | 
+| ------------- | ------------- | ------------- | ------------- | 
+| Content Cell  | Content Cell  | Content Cell  | [Content Cell]()  |
+| Content Cell  | Content Cell  | Content Cell  | [Content Cell]()  |
+
 ## Files
 
 train/ - Folder containing training set photos of the form video_{video_id}/{video_frame_number}.jpg.
