@@ -1,0 +1,2 @@
+# starfish-detection
+Kaggle Competition 
