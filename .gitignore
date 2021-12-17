@@ -131,3 +131,6 @@ dmypy.json
 # Data folder to ignore 
 data/
 
+# Python Enviorment to exclude
+starfish-detec-env/
+
